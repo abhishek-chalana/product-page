@@ -4,8 +4,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'bluecode': '#6497ce',
+        'blue-hash': '#6497ce',
       },
+      maxWidth: {
+        'xxs': '10rem',
+      }
     }
   },
   plugins: [],
